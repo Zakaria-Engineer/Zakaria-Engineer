@@ -229,8 +229,5 @@
   <hr style="border: none; height: 1px; background-color: #d1d5da; margin: 25px 0;">
 
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaria-engineer&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=8&hide_border=true" alt="zakaria-engineer top languages" style="margin: 5px;"/>
-   
-  </p>
+
 </div>
